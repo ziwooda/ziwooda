@@ -6,8 +6,8 @@ I'm currently interested in **🌟Cloud Architecture & DevOps🌟**
 ### About Me✨
 👩🏻‍🎓 Sookmyung Women's University  
 👩🏻‍💻 Majoring in Software Convergence  
-🫐 AUSG 6th Member 2022.07 -  
-☁️ Cloud Club 2nd Member 2022.09 -  
+🫐 AUSG 6th Member [ 2022.07 - ]  
+☁️ Cloud Club 2nd Member [ 2022.09 - ]
 
 - Preparing for _Solutions Architect(SA)_
 - Studying **AWS & Architecture**
