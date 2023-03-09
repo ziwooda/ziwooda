@@ -5,17 +5,22 @@ I'm currently interested in **🌟Cloud Architecture & DevOps🌟**
 <br>
 ### About Me✨
 👩🏻‍🎓 Sookmyung Women's University  
-👩🏻‍💻 Majoring in Software Convergence  
-🫐 AUSG 6th Member [ 2022.07 - ]  
-☁️ Cloud Club 2nd Member [ 2022.09 - ]
+👩🏻‍💻 Majored in Software Convergence  
+🫐 AUSG 6th Member & 7th Regulator [ 2022.07 - ]  
+☁️ Cloud Club 2nd Member & 3rd Management [ 2022.09 - ]
 
 - Preparing for _Solutions Architect(SA)_
 - Studying **AWS & Architecture**
 - Love watching movies in theater or short reviews on YouTube
-> AWS _Solutions Architect-Associate_ Certificate (2022.05.11)  
+
+<br>
+
+### Certifications🏆
+> _AWS Certified: Solutions Architect-Associate_ (2022.05.11)  
+> _HashiCorp Certified: Terraform Associate_ (2023.02.13)  
 > Readyme Onboarding Certificate [Data Analysis]  
 > GCP Study Jam [ML Advanced, Kubernetes Beginner, Intermediate]  
-<br>
+
 
 ### Tech Stack🌀
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)](https://www.python.org/)
