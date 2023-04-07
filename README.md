@@ -3,24 +3,28 @@
 ## Hi, I'm Ziwoo😶
 I'm currently interested in **🌟Cloud Architecture & DevOps🌟**  
 <br>
-### About Me✨
+### Education and Activities🎓
 👩🏻‍🎓 Sookmyung Women's University  
 👩🏻‍💻 Majored in Software Convergence  
 🫐 AUSG 6th Member & 7th Regulator [ 2022.07 - ]  
 ☁️ Cloud Club 2nd Member & 3rd Management [ 2022.09 - ]
 
-- Preparing for _Solutions Architect(SA)_
-- Studying **AWS & Architecture**
-- Love watching movies in theater or short reviews on YouTube
+<br>
+
+### About Me✨
+👶🏻 Growing up to be an expert as a _Solutions Architect(SA)_ and _DevOps Engineer_   
+🎤 Presented about _'Improving Code Reusability with Terraform Module'_ at AUSG   
+🎥 Love watching movies in the theater or short reviews on YouTube  
+🌝 And also love networking people with diversity :)
 
 <br>
 
 ### Certifications n Courses 🏆
-[AWS Academny Cloud Foundations](https://www.credly.com/badges/113c4299-a6d0-489c-8f69-e7ab30d5eed2/public_url) (2022.02.05)   
-[AWS Certified: Solutions Architect Associate](https://www.credly.com/badges/af5b9962-94c6-4400-87d3-e76f9fc23492/public_url) (2022.05.11)  
-[Readyme Onboarding Certificate](https://user-images.githubusercontent.com/70079416/230597980-46737754-b107-4218-a715-49aa19c1137a.jpg) : _Data Analysis_ (2022.06.19)  
+AWS Academy Cloud Foundations (2022.02.05) | _[Credly Badge](https://www.credly.com/badges/113c4299-a6d0-489c-8f69-e7ab30d5eed2/public_url)_   
+AWS Certified: Solutions Architect Associate (2022.05.11) | _[Credly Badge](https://www.credly.com/badges/af5b9962-94c6-4400-87d3-e76f9fc23492/public_url)_  
+Readyme Onboarding Certificate : _Data Analysis_ (2022.06.19) | _[Cert.](https://user-images.githubusercontent.com/70079416/230597980-46737754-b107-4218-a715-49aa19c1137a.jpg)_  
 GCP Study Jam : _ML Advanced, Kubernetes Beginner, Intermediate_   
-[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/0eda154e-bf1c-4645-9f23-64010a11be70/public_url) (2023.02.13)    
+HashiCorp Certified: Terraform Associate (2023.02.13) | _[Credly Badge](https://www.credly.com/badges/0eda154e-bf1c-4645-9f23-64010a11be70/public_url)_    
 
 
 <br>
