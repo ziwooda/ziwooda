@@ -28,20 +28,21 @@ GCP Study Jam : _ML Advanced, Kubernetes Beginner, Intermediate_
 ### Tech Stack🌀
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-plastic&logo=MYSQL&logoColor=white)](https://www.mysql.com/)
-<!-- <br>
-[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-plastic&logo=Node.js&logoColor=white)](https://nodejs.org/ko/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
-<br> -->
-
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-plastic&logo=NestJS&logoColor=white)](https://nestjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-plastic&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 <br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black)](https://www.linux.org/)
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-plastic&logo=CentOS&logoColor=white)](https://www.centos.org/)
-<br>
 [![amazonaws](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-plastic&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ko/)
+<br>
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-plastic&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-plastic&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-plastic&logo=Argo&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/)
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-plastic&logo=notion&logoColor=white)
 
 <br>
 
