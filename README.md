@@ -52,11 +52,10 @@ HashiCorp Certified: Terraform Associate (2023.02.13) | _[Credly Badge](https://
 
 
 ### Contact📍
-You can reach me by [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jiwoo-jeong-187721238/)  
-and feel free to visit my blog..💙
-<!--
+You can reach me by [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zjweong)  
+
 ![Ziwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziwooda&theme=dark&show_icons=true)
--->
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer" />  
