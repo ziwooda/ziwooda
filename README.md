@@ -14,6 +14,7 @@ I'm currently interested in **🌟Cloud Architecture & DevOps🌟**
 ### About Me✨
 👶🏻 Growing up to be an expert as a _Solutions Architect(SA)_ and _DevOps Engineer_   
 🎤 Presented about _'Improving Code Reusability with Terraform Module'_ at AUSG   
+🎤 Presented about _'AWS Guidelines for Univeristy Students'_ at AWS Summit Seoul 2023   
 🎥 Love watching movies in the theater or short reviews on YouTube  
 🌝 And also love networking people with diversity :)
 
