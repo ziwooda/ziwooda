@@ -7,7 +7,8 @@ I'm currently interested in **🌟Cloud Architecture & DevOps🌟**
 👩🏻‍🎓 Sookmyung Women's University  
 👩🏻‍💻 Majored in Software Convergence  
 🫐 AUSG 6th Member & 7th Regulator [ 2022.07 - ]  
-☁️ Cloud Club 2nd Member & 3rd Management [ 2022.09 - ]
+☁️ Cloud Club 2nd Member & 4th vice-president [ 2022.09 - ]  
+✈️ Now working at gccompany as a Cloud Engineer
 
 <br>
 
@@ -34,7 +35,6 @@ HashiCorp Certified: Terraform Associate (2023.02.13) | _[Credly Badge](https://
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-plastic&logo=MYSQL&logoColor=white)](https://www.mysql.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-plastic&logo=NestJS&logoColor=white)](https://nestjs.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-plastic&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 <br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black)](https://www.linux.org/)
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-plastic&logo=CentOS&logoColor=white)](https://www.centos.org/)
@@ -43,7 +43,6 @@ HashiCorp Certified: Terraform Associate (2023.02.13) | _[Credly Badge](https://
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-plastic&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-plastic&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-plastic&logo=Argo&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/)
 <br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=slack&logoColor=white)
